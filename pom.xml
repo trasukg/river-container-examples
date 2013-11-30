@@ -10,5 +10,7 @@
     <module>hello-example-api</module>
     <module>hello-example-impl</module>
     <module>hello-module</module>
+    <module>hello-client</module>
+    <module>hello-client-module</module>
   </modules>
 </project>
